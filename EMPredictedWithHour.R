@@ -1,7 +1,7 @@
 ##########################################################################
 # PROJECT : Daily forecasted admissions broken down by hour, day and site
 
-# DETAILS : Hourly data from previous years were plotted into a bar charts
+# DETAILS : Hourly data from previous years were plotted 
 #           by day and site.
 #           The forecasted hourly breakdown was caluclated by:
 #           (Frequency of the hour of the day/Total of day)*Forecasted total for day
